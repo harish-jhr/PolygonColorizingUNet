@@ -1,5 +1,7 @@
 # PolygonColorizingUNet
 Simple UNet model that fills a polygon with a chosen color.
+## If you don't have the patience to clone the repo locally : 
+Find a ready to use colab notebook [here](https://colab.research.google.com/drive/1hDgb_ZRUHCauG4U2jyBpYzX2vCfikuIs?usp=sharing).
 ## To train the model :
 1. Clone this repository.
 2. Find the dataset [here.](https://drive.google.com/open?id=1QXLgo3ZfQPorGwhYVmZUEWO_sU3i1pHM)
