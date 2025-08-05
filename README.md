@@ -11,3 +11,7 @@ Find a ready to use colab notebook [here](https://colab.research.google.com/driv
 1. Clone this repository.
 2. Find pretrained weights [here](https://huggingface.co/Harish-JHR/PolygonColorizingUNet).
 3. Simply run infernce usning this [notebook](https://github.com/harish-jhr/PolygonColorizingUNet/blob/main/notebooks/inference.ipynb).
+
+
+### Visit the wandb for a short report and training dynamics :
+Find the report [here](https://wandb.ai/harishjrao615-iiser-bhopal/CustomUNet/reports/PolygonColorizingUNet--VmlldzoxMzg3NDk2NQ?accessToken=4vf90ryjk6r3b281efzy9yc2v6xikyhbmf6c4tdiiliihxrsm4uetg7oupuwb93i).
