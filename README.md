@@ -6,11 +6,11 @@ Find a ready to use colab notebook [here](https://colab.research.google.com/driv
 1. Clone this repository.
 2. Find the dataset [here.](https://drive.google.com/open?id=1QXLgo3ZfQPorGwhYVmZUEWO_sU3i1pHM)
 3. Place the downloaded training and validation data in a single folder named data in the root project directory.
-4. Then simply run the training using this [notebook](https://github.com/harish-jhr/PolygonColorizingUNet/blob/main/notebooks/train.ipynb).
+4. Then simply run the training using this [notebooks/train.ipynb](https://github.com/harish-jhr/PolygonColorizingUNet/blob/main/notebooks/train.ipynb).
 ## To infer using pre-trained weights :
 1. Clone this repository.
 2. Find pretrained weights [here](https://huggingface.co/Harish-JHR/PolygonColorizingUNet).
-3. Simply run infernce usning this [notebook](https://github.com/harish-jhr/PolygonColorizingUNet/blob/main/notebooks/inference.ipynb).
+3. Simply run infernce usning this [notebooks/inference.ipynb](https://github.com/harish-jhr/PolygonColorizingUNet/blob/main/notebooks/inference.ipynb).
 
 
 ### Visit wandb for a short report with training dynamics :
